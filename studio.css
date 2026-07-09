@@ -522,17 +522,18 @@ main {
   row-gap: 2rem;
 }
 .part4 .fylla {
-  width: 10%;
+  width: 60%;
   justify-content: space-between;
 }
 .part4 .fylla img {
-  width: 200%;
+  width: 100%;
   aspect-ratio: 1/1;
   -o-object-fit: contain;
      object-fit: contain;
 }
 .part4 .fylla h1 {
-  margin-top: 3rem;
+  width: 100%;
+  margin-top: 4rem;
 }
 .part4 .main {
   padding: 1rem 1rem;
